@@ -24,7 +24,7 @@ a.companyname {font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#1c
 #main {margin:0 auto;width:800px}
 /* Left sidebar */
 #LTsidebar {float:left;width:213px}
-#logo {margin:30px auto 0;width:99px;height:111px;background:url(../img/Logo.jpg) no-repeat top left}
+#logo {margin:30px auto 0;width:142px;height:111px;background:url(../img/logo_3dland_reduced.png) no-repeat top left}
 /* Box */
 .boxheadRT {float:left;height:21px;background:url(../img/box_headder.jpg) no-repeat top left}
 .boxheadLT {float:right;width:18px;height:21px;background:url(../img/box_headder.jpg) no-repeat top right}
